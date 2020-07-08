@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Janda.Dot.Serilog</id>
+    <version>$Version$</version>
+    <title></title>
+    <authors>Matt Janda</authors>
+    <owners>Matt Janda</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Dot package</description>
+    <developmentDependency>true</developmentDependency>
+    <dependencies>        
+      <dependency id="Serilog.Extensions.Logging" version="3.0.1" />
+      <dependency id="Serilog.Sinks.ColoredConsole" version="3.0.1" />
+      <dependency id="Serilog.Sinks.File" version="4.1.0" />
+      <dependency id="Serilog.Settings.Configuration" version="3.1.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="build\*.*" target="build" />
+  </files>
+</package>
