@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.3.0](http://nas/matt/Janda.Dot.Serilog/compare/0.2.0...0.3.0) (2020-07-17)
+
+
+### Features
+
+* Add jenkins shared library ([02cd914](http://nas/matt/Janda.Dot.Serilog/commit/02cd9142f876d7dabc61a6f0301bcf17cfef88d3))
+
 ## [0.2.0](http://nas/matt/Janda.Dot.Serilog/compare/0.1.0...0.2.0) (2020-07-08)
 
 
